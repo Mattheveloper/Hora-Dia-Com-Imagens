@@ -1,0 +1,38 @@
+body  {
+     background-color: #479cd1e0;
+     font: normal 15pt Arial;
+}
+
+header {
+     color: white;
+     text-align: center;
+}
+
+section  {
+     background-color: white;
+     border-radius: 10px;
+     padding: 15px;
+     width: 70%;
+     margin: auto;
+     box-shadow: 3px 7px 10px rgba(17, 17, 37, 0.808);
+     text-align: center;
+     padding-bottom: 2%;
+}
+
+footer {
+     color: white;
+     margin-top: 2%;
+     text-align: center;
+     font-style: italic;
+}
+
+#imagem {
+     border-radius: 10%;
+     max-width: 90%;
+     align-items: center;
+}
+
+#msg {
+     margin-bottom: 1%;
+     font-family: Arial, Helvetica, sans-serif;
+}
